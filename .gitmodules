@@ -22,3 +22,9 @@
 [submodule "42/Cursus/rank02/minishell"]
 	path = 42/Cursus/rank02/minishell
 	url = git@github.com:laird-ikar/minishell.git
+[submodule "42/Cursus/rank04/NetPractice"]
+	path = 42/Cursus/rank04/NetPractice
+	url = git@github.com:laird-ikar/NetPractice.git
+[submodule "42/Cursus/rank04/cub3D"]
+	path = 42/Cursus/rank04/cub3D
+	url = git@github.com:laird-ikar/cub3D
