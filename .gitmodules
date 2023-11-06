@@ -34,3 +34,18 @@
 [submodule "42/Cursus/rank03/philosophers"]
 	path = 42/Cursus/rank03/philosophers
 	url = git@github.com:laird-ikar/philosophers.git
+[submodule "42/Cursus/rank04/CPP Modules 00-04/CPP00"]
+	path = 42/Cursus/rank04/CPP Modules 00-04/CPP00
+	url = git@github.com:laird-ikar/CPP00.git
+[submodule "42/Cursus/rank04/CPP Modules 00-04/CPP01"]
+	path = 42/Cursus/rank04/CPP Modules 00-04/CPP01
+	url = git@github.com:laird-ikar/CPP01.git
+[submodule "42/Cursus/rank04/CPP Modules 00-04/CPP02"]
+	path = 42/Cursus/rank04/CPP Modules 00-04/CPP02
+	url = git@github.com:laird-ikar/CPP02.git
+[submodule "42/Cursus/rank04/CPP Modules 00-04/CPP03"]
+	path = 42/Cursus/rank04/CPP Modules 00-04/CPP03
+	url = git@github.com:laird-ikar/CPP03.git
+[submodule "42/Cursus/rank04/CPP Modules 00-04/CPP04"]
+	path = 42/Cursus/rank04/CPP Modules 00-04/CPP04
+	url = git@github.com:laird-ikar/CPP04.git
