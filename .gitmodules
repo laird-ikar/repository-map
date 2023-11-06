@@ -28,3 +28,9 @@
 [submodule "42/Cursus/rank04/cub3D"]
 	path = 42/Cursus/rank04/cub3D
 	url = git@github.com:laird-ikar/cub3D
+[submodule "42/Cursus/rank03/minishell"]
+	path = 42/Cursus/rank03/minishell
+	url = git@github.com:laird-ikar/minishell.git
+[submodule "42/Cursus/rank03/philosophers"]
+	path = 42/Cursus/rank03/philosophers
+	url = git@github.com:laird-ikar/philosophers.git
