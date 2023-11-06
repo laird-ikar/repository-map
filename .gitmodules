@@ -16,3 +16,9 @@
 [submodule "42/Cursus/rank02/FdF"]
 	path = 42/Cursus/rank02/FdF
 	url = git@github.com:laird-ikar/FdF.git
+[submodule "42/Cursus/rank02/philosophers"]
+	path = 42/Cursus/rank02/philosophers
+	url = git@github.com:laird-ikar/philosophers.git
+[submodule "42/Cursus/rank02/minishell"]
+	path = 42/Cursus/rank02/minishell
+	url = git@github.com:laird-ikar/minishell.git
