@@ -49,3 +49,9 @@
 [submodule "42/Cursus/rank04/CPP Modules 00-04/CPP04"]
 	path = 42/Cursus/rank04/CPP Modules 00-04/CPP04
 	url = git@github.com:laird-ikar/CPP04.git
+[submodule "42/Cursus/rank05/ft_irc"]
+	path = 42/Cursus/rank05/ft_irc
+	url = git@github.com:laird-ikar/ft_irc.git
+[submodule "42/Cursus/rank05/Inception"]
+	path = 42/Cursus/rank05/Inception
+	url = git@github.com:laird-ikar/Inception.git
