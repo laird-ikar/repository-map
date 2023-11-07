@@ -55,3 +55,18 @@
 [submodule "42/Cursus/rank05/Inception"]
 	path = 42/Cursus/rank05/Inception
 	url = git@github.com:laird-ikar/Inception.git
+[submodule "42/Cursus/rank05/CPP Modules 05-09/CPP05"]
+	path = 42/Cursus/rank05/CPP Modules 05-09/CPP05
+	url = git@github.com:laird-ikar/CPP05.git
+[submodule "42/Cursus/rank05/CPP Modules 05-09/CPP06"]
+	path = 42/Cursus/rank05/CPP Modules 05-09/CPP06
+	url = git@github.com:laird-ikar/CPP06.git
+[submodule "42/Cursus/rank05/CPP Modules 05-09/CPP07"]
+	path = 42/Cursus/rank05/CPP Modules 05-09/CPP07
+	url = git@github.com:laird-ikar/CPP07.git
+[submodule "42/Cursus/rank05/CPP Modules 05-09/CPP08"]
+	path = 42/Cursus/rank05/CPP Modules 05-09/CPP08
+	url = git@github.com:laird-ikar/CPP08.git
+[submodule "42/Cursus/rank05/CPP Modules 05-09/CPP09"]
+	path = 42/Cursus/rank05/CPP Modules 05-09/CPP09
+	url = git@github.com:laird-ikar/CPP09.git
