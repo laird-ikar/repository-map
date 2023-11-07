@@ -115,3 +115,9 @@
 [submodule "42/Piscine C/days/C-11"]
 	path = 42/Piscine C/days/C-11
 	url = git@github.com:laird-ikar/C-11.git
+[submodule "42/Piscine C/days/Shell-00"]
+	path = 42/Piscine C/days/Shell-00
+	url = git@github.com:laird-ikar/Shell-00.git
+[submodule "42/Piscine C/days/Shell-01"]
+	path = 42/Piscine C/days/Shell-01
+	url = git@github.com:laird-ikar/Shell-01.git

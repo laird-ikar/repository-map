@@ -1,5 +1,0 @@
-Credentials cache: API:E8A985F3-2203-4A18-A60D-2A918D282967
-        Principal: bguyot@42MULHOUSE.FR
-
-  Issued                Expires               Principal
-Nov 10 07:48:07 2021  Nov 10 17:47:54 2021  krbtgt/42MULHOUSE.FR@42MULHOUSE.FR
