@@ -73,3 +73,9 @@
 [submodule "42/Cursus/rank06/ft_transcendence"]
 	path = 42/Cursus/rank06/ft_transcendence
 	url = git@github.com:laird-ikar/ft_transcendence.git
+[submodule "42/Piscine C/Shell-00"]
+	path = 42/Piscine C/Shell-00
+	url = git@github.com:laird-ikar/Shell-00.git
+[submodule "42/Piscine C/Shell-01"]
+	path = 42/Piscine C/Shell-01
+	url = git@github.com:laird-ikar/Shell-01.git
