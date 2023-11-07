@@ -79,3 +79,39 @@
 [submodule "42/Piscine C/Shell-01"]
 	path = 42/Piscine C/Shell-01
 	url = git@github.com:laird-ikar/Shell-01.git
+[submodule "42/Piscine C/days/C-00"]
+	path = 42/Piscine C/days/C-00
+	url = git@github.com:laird-ikar/C-00.git
+[submodule "42/Piscine C/days/C-01"]
+	path = 42/Piscine C/days/C-01
+	url = git@github.com:laird-ikar/C-01.git
+[submodule "42/Piscine C/days/C-02"]
+	path = 42/Piscine C/days/C-02
+	url = git@github.com:laird-ikar/C-02.git
+[submodule "42/Piscine C/days/C-03"]
+	path = 42/Piscine C/days/C-03
+	url = git@github.com:laird-ikar/C-03.git
+[submodule "42/Piscine C/days/C-04"]
+	path = 42/Piscine C/days/C-04
+	url = git@github.com:laird-ikar/C-04.git
+[submodule "42/Piscine C/days/C-05"]
+	path = 42/Piscine C/days/C-05
+	url = git@github.com:laird-ikar/C-05.git
+[submodule "42/Piscine C/days/C-06"]
+	path = 42/Piscine C/days/C-06
+	url = git@github.com:laird-ikar/C-06.git
+[submodule "42/Piscine C/days/C-07"]
+	path = 42/Piscine C/days/C-07
+	url = git@github.com:laird-ikar/C-07.git
+[submodule "42/Piscine C/days/C-08"]
+	path = 42/Piscine C/days/C-08
+	url = git@github.com:laird-ikar/C-08.git
+[submodule "42/Piscine C/days/C-09"]
+	path = 42/Piscine C/days/C-09
+	url = git@github.com:laird-ikar/C-09.git
+[submodule "42/Piscine C/days/C-10"]
+	path = 42/Piscine C/days/C-10
+	url = git@github.com:laird-ikar/C-10.git
+[submodule "42/Piscine C/days/C-11"]
+	path = 42/Piscine C/days/C-11
+	url = git@github.com:laird-ikar/C-11.git
